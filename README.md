@@ -1,4 +1,4 @@
 # proyecto-colaborativo
 
-personaB
+# Pruebas de colaboración - Proyecto del Equipo Alfa
 
